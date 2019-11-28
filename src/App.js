@@ -13,11 +13,11 @@ function App() {
   return (
     <React.Fragment>
       <NavBar />
-      <Route exact path="/" component={ProductList} />
+      <Route exact path="/ReactEcommerceSite/home" component={ProductList} />
       <Switch>
 
-        <Route path="/details" component={Details} />
-        <Route path="/cart" component={Cart} />
+        <Route path="/ReactEcommerceSite/details" component={Details} />
+        <Route path="/ReactEcommerceSite/cart" component={Cart} />
         {/* <Route path="/default" component={Default} /> */}
       </Switch>
       <Modal />
