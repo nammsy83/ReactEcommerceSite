@@ -14,10 +14,10 @@ class Navbar extends Component {
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5">
-                        <Link to="/home" className="nav-link">Products</Link>
+                        <Link to="/ReactEcommerceSite/home" className="nav-link">Products</Link>
                     </li>
                 </ul>
-                <Link to="/cart" className="pull-right">
+                <Link to="/ReactEcommerceSite/cart" className="pull-right">
                     <ButtonContainer>
                         <span className="mr-2">
                             <i className="fas fa-cart-plus"></i>

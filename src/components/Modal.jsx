@@ -34,7 +34,7 @@ class Modal extends Component {
                                                             Store
                                                     </ButtonContainer>
                                                     </Link>
-                                                    <Link to="/cart">
+                                                    <Link to="/ReactEcommerceSite/cart">
                                                         <ButtonContainer onClick={() => closeModal()}>
                                                             Go to Cart
                                                     </ButtonContainer>
