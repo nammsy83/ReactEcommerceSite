@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4b7faf74523a8862b4cf3e8e1bcfaef",
+    "revision": "549da0b36b09c3381ecc9b94aee9fe80",
     "url": "/ReactEcommerceSite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactEcommerceSite/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "8a44c233e89f82f64be3",
+    "revision": "2329991282e8c747f726",
     "url": "/ReactEcommerceSite/static/css/main.8a2fe4e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactEcommerceSite/static/js/2.18f47ed5.chunk.js"
   },
   {
-    "revision": "8a44c233e89f82f64be3",
-    "url": "/ReactEcommerceSite/static/js/main.3d86472c.chunk.js"
+    "revision": "2329991282e8c747f726",
+    "url": "/ReactEcommerceSite/static/js/main.a3fbdbce.chunk.js"
   },
   {
     "revision": "db5e8d25424f72ec74fa",
