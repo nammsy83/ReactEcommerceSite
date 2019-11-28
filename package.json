@@ -1,7 +1,7 @@
 {
   "name": "store",
   "version": "0.1.0",
-  "homepage": "https://nammsy83.github.io/ReactEcommerceSite/home",
+  "homepage": "https://nammsy83.github.io/ReactEcommerceSite/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
